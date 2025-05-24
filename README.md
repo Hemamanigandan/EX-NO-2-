@@ -22,7 +22,6 @@ To encrypt a message, one would break the message into digrams (groups of 2 lett
 ![image](https://github.com/Hemamanigandan/EX-NO-2-/assets/149653568/e6858d4f-b122-42ba-acdb-db18ec2e9675)
 
  
-
 ## ALGORITHM:
 
 STEP-1: Read the plain text from the user.
