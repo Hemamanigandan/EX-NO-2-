@@ -6,7 +6,6 @@
  
 
  
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
